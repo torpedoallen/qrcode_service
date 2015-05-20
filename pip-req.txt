@@ -1,0 +1,5 @@
+ipython
+nameko
+qrcode
+pillow
+qiniu
